@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Josef+Lundin....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Josef+Lundin...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -18,7 +18,7 @@
   <br>
   🎓 I graduated from Vimy Ridge Academy High School
   <br>
-  💻 I love writing code and Learnign About Anything Code Realated
+  💻 I love writing code and Learning About Anything Code Realated
   <br>
   📚 I’m currently developing my C skills
   <br>
