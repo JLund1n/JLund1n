@@ -14,7 +14,7 @@
   Hi, I'm Josef Lundin, Computer Science Student and Athelete
   <br>
   <br>
-  🔬 I'm currently studying for my Bachelors at the University of Alberta, Department of Science
+  🔬 I'm currently studying for my Bachelors at Macewan University, Department of Science
   <br>
   🎓 I graduated from Vimy Ridge Academy High School
   <br>
